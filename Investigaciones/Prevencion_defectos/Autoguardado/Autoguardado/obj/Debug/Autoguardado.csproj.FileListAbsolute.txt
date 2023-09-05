@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\bin\Debug\Autoguardado.exe
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\bin\Debug\Autoguardado.pdb
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\obj\Debug\Autoguardado.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\obj\Debug\Autoguardado.MainForm.resources
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\obj\Debug\Autoguardado.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\obj\Debug\Autoguardado.exe
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Prevencion_defectos\Autoguardado\Autoguardado\obj\Debug\Autoguardado.pdb
