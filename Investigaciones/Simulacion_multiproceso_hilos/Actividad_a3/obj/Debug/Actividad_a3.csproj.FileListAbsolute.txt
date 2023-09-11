@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\bin\Debug\Actividad_a3.exe
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\bin\Debug\Actividad_a3.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\obj\Debug\Actividad_a3.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\obj\Debug\Actividad_a3.exe
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\obj\Debug\Actividad_a3.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\obj\Debug\Actividad_a3.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\Actividad_a3\Actividad_a3\obj\Debug\Actividad_a3.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\bin\Debug\Actividad_a3.exe
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\bin\Debug\Actividad_a3.pdb
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\obj\Debug\Actividad_a3.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\obj\Debug\Actividad_a3.MainForm.resources
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\obj\Debug\Actividad_a3.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\obj\Debug\Actividad_a3.exe
+C:\Users\USER\Desktop\Cucei\Materias\Tolerante a fallas\Investigaciones\Simulacion_multiproceso_hilos\Actividad_a3\obj\Debug\Actividad_a3.pdb
